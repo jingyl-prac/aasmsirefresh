@@ -203,11 +203,11 @@
 			},
 			"Region": {
 				"type": "String",
-				"defaultValue": "West Central US"
+				"defaultValue": "westcentralus"
 			},
 			"Server": {
 				"type": "String",
-				"defaultValue": "asazure://westcentralus.asazure.windows.net/aasprac"
+				"defaultValue": "aasprac"
 			},
 			"DatabaseName": {
 				"type": "String",
